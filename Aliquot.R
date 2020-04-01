@@ -1,4 +1,4 @@
-#Making a calculator so I dont need to do shit
+#Making an Aliquot Calculator
 Aliquot<- function(){
         ps <- as.double(readline(prompt="Enter in percentage (w/v) strength: "))
        
